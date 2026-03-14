@@ -63,6 +63,11 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)](https://cplusplus.com)
 
 ### Мои работы
+| Тип | Репозиторий |
+|----|-------------|
+| **Тест-кейсы** | [![Test-Cases](https://img.shields.io/badge/Test--Cases-%23blue?style=flat&logo=github)](https://github.com/Nadezhda-Khabarova/Test-Cases) |
+| **Чек-листы** | [![Check--lists](https://img.shields.io/badge/Check--lists-green?style=flat&logo=github)](https://github.com/Nadezhda-Khabarova/Check-lists) |
+| **Баг-репорты** | [![Bug--Reports](https://img.shields.io/badge/Bug--Reports-orange?style=flat&logo=github)](https://github.com/Nadezhda-Khabarova/Bug-Reports) |
 
 ---
 
